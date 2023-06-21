@@ -13,7 +13,7 @@ pycparser==2.20
 pylint==2.6.0
 python-telegram-bot==13.1
 pytz==2020.5
-requests==2.25.1
+requests==2.31.0
 six==1.15.0
 toml==0.10.2
 tornado==6.1
