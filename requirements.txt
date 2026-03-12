@@ -16,7 +16,7 @@ pytz==2020.5
 requests==2.32.4
 six==1.15.0
 toml==0.10.2
-tornado==6.5
+tornado==6.5.5
 tzlocal==2.1
 urllib3==2.6.3
 wrapt==1.12.1
