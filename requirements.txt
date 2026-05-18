@@ -18,5 +18,5 @@ six==1.15.0
 toml==0.10.2
 tornado==6.5.5
 tzlocal==2.1
-urllib3==2.6.3
+urllib3==2.7.0
 wrapt==1.12.1
