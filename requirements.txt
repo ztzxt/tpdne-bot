@@ -3,7 +3,7 @@ astroid==2.4.2
 certifi==2024.7.4
 cffi==1.14.4
 chardet==4.0.0
-cryptography==46.0.7
+cryptography==48.0.1
 decorator==4.4.2
 idna==3.15
 isort==5.7.0
@@ -16,7 +16,7 @@ pytz==2020.5
 requests==2.33.0
 six==1.15.0
 toml==0.10.2
-tornado==6.5.6
+tornado==6.5.7
 tzlocal==2.1
 urllib3==2.7.0
 wrapt==1.12.1
